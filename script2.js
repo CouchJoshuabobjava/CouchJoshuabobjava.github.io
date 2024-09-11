@@ -38,5 +38,5 @@ form.addEventListener("submit", (e) => {
 
     sendEmail();
 
-
+    
 });
